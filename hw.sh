@@ -1,1 +1,1 @@
-echo "salut a toi"
+echo "salut"
